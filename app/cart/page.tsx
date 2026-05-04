@@ -108,9 +108,9 @@ export default function CartPage() {
                 </div>
               </div>
 
-              <button className="w-full accent-bg text-[#0A1F44] py-4 rounded-xl font-black flex items-center justify-center gap-2 hover:bg-yellow-500 transition-all shadow-lg group">
+              <Link href="/checkout" className="w-full accent-bg text-[#0A1F44] py-4 rounded-xl font-black flex items-center justify-center gap-2 hover:bg-yellow-500 transition-all shadow-lg group">
                 Proceed to Checkout <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
-              </button>
+              </Link>
               
               <div className="mt-6 flex items-center justify-center gap-4 opacity-50 grayscale hover:grayscale-0 transition-all">
                 <div className="bg-white/10 px-2 py-1 rounded text-[10px] font-bold">VISA</div>
