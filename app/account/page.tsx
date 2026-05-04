@@ -164,7 +164,7 @@ export default function AccountPage() {
                   </div>
                   <div className="space-y-1">
                       <label className="text-xs font-bold text-gray-500 uppercase">Phone Number</label>
-                      <input type="tel" defaultValue="+91 9876543210" className="w-full p-3 border border-gray-300 rounded-xl outline-none" />
+                      <input type="tel" defaultValue="+91-7905417816" className="w-full p-3 border border-gray-300 rounded-xl outline-none" />
                   </div>
                   <button className="bg-[#0A1F44] text-white px-8 py-3 rounded-full font-bold hover:bg-[#FFC107] hover:text-[#0A1F44] transition-colors mt-4">
                     Save Changes
@@ -180,8 +180,8 @@ export default function AccountPage() {
                   <div className="border-2 border-[#0A1F44] rounded-2xl p-5 relative">
                      <div className="absolute top-4 right-4 bg-gray-100 text-xs font-bold px-2 py-1 rounded">DEFAULT</div>
                      <h4 className="font-bold text-[#0A1F44] mb-1">John Doe</h4>
-                     <p className="text-sm text-gray-600 mb-4 line-clamp-2">12th Floor, Sea View Apartments,<br/>Marine Drive, Mumbai 400021</p>
-                     <p className="text-sm font-medium mb-4">Ph: +91 9876543210</p>
+                     <p className="text-sm text-gray-600 mb-4 line-clamp-2">Saripura Alam Nagar Rajajipuram Lucknow</p>
+                     <p className="text-sm font-medium mb-4">Ph: +91 79054 17816</p>
                      <div className="flex gap-4 border-t border-gray-100 pt-3">
                        <button className="text-sm font-bold text-[#0A1F44] hover:underline">Edit</button>
                        <button className="text-sm font-bold text-red-500 hover:underline">Remove</button>

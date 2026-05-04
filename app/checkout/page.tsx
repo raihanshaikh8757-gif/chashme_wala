@@ -95,7 +95,7 @@ export default function CheckoutPage() {
                     </div>
                     <div className="space-y-2">
                        <label className="text-xs font-black uppercase tracking-widest text-[#0A1F44]">Phone Number</label>
-                       <input type="text" placeholder="+91 98765 43210" className="w-full h-12 bg-slate-50 border border-slate-200 rounded-xl px-4 text-sm focus:bg-white focus:border-[#0A1F44] outline-none" />
+                       <input type="text" placeholder="+91 79054 17816" className="w-full h-12 bg-slate-50 border border-slate-200 rounded-xl px-4 text-sm focus:bg-white focus:border-[#0A1F44] outline-none" />
                     </div>
                     <div className="md:col-span-2 space-y-2">
                        <label className="text-xs font-black uppercase tracking-widest text-[#0A1F44]">Flat / House No. / Building</label>
@@ -103,7 +103,7 @@ export default function CheckoutPage() {
                     </div>
                     <div className="space-y-2">
                        <label className="text-xs font-black uppercase tracking-widest text-[#0A1F44]">City</label>
-                       <input type="text" placeholder="Mumbai" className="w-full h-12 bg-slate-50 border border-slate-200 rounded-xl px-4 text-sm focus:bg-white focus:border-[#0A1F44] outline-none" />
+                       <input type="text" placeholder="Lucknow" className="w-full h-12 bg-slate-50 border border-slate-200 rounded-xl px-4 text-sm focus:bg-white focus:border-[#0A1F44] outline-none" />
                     </div>
                     <div className="space-y-2">
                        <label className="text-xs font-black uppercase tracking-widest text-[#0A1F44]">Pincode</label>

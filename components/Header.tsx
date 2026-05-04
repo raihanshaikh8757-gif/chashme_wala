@@ -54,7 +54,7 @@ export default function Header() {
             <div className="relative w-10 h-10 md:w-12 md:h-12 overflow-hidden rounded-full shadow-md border border-slate-200">
               <Image src="/logo.jpeg" alt="Chashmewala Logo" fill className="object-cover" />
             </div>
-            <span className="text-[#0A1F44] font-extrabold text-base md:text-2xl tracking-tighter shrink-0">
+            <span className="text-[#0A1F44] font-extrabold text-xl md:text-3xl tracking-tighter shrink-0">
               CHASHME<span className="accent-text">WALA</span>
             </span>
           </Link>
@@ -137,7 +137,7 @@ export default function Header() {
                   <div className="relative w-8 h-8 overflow-hidden rounded-full shadow-md border border-slate-200">
                     <Image src="/logo.jpeg" alt="Chashmewala Logo" fill className="object-cover" />
                   </div>
-                  <span className="font-extrabold text-xl tracking-tighter text-[#0A1F44]">
+                  <span className="font-extrabold text-2xl tracking-tighter text-[#0A1F44]">
                     CHASHME<span className="accent-text">WALA</span>
                   </span>
                 </div>
